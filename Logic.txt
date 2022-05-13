@@ -1,0 +1,4 @@
+We have used the brute force logic that each cell shall have only and only 1 element, and each row, column and cell shall have any element only once.
+Total number of variables assigned for each cell are k*k which denote that which element out of k*k possible elements is present in that cell.
+Total no. of variables are
+var = 2*(k^6)
